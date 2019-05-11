@@ -12,7 +12,7 @@ Go to the project directory using termianl/command prompt.
 Make sure you are connected to the internet.
 
 ```sh
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 The necesary pakckages to run this project will be installed on your machine.
@@ -20,7 +20,7 @@ The necesary pakckages to run this project will be installed on your machine.
 Some test images are placed in "Final\Images\".
 
 ```sh
-python User.py --image Final\Images\image-1.jpg --width 24.3
+$ python User.py --image Final\Images\image-1.jpg --width 24.3
 ```
 
 
