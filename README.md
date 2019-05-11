@@ -1,5 +1,8 @@
 # Gaatra
 This is the B.Tech 6th Semester Mini-Project that I worked on with my friends.
+This project can find the dimension of an object using its image. Say you want to find the dimension of a piece of wood or metal. Just click a picture and use this project to find its dimensions.
+
+Please refer the report for in depth explanation.
 
 ## Instructions to work with this project
 
