@@ -11,7 +11,7 @@ The demo is shown in this video here: https://www.youtube.com/watch?v=FPBri03LVW
 Go to the project directory using termianl/command prompt.
 Make sure you are connected to the internet.
 
-```
+```sh
 pip install -r requirements.txt
 ```
 
@@ -19,7 +19,7 @@ The necesary pakckages to run this project will be installed on your machine.
 
 Some test images are placed in "Final\Images\".
 
-```
+```sh
 python User.py --image Final\Images\image-1.jpg --width 24.3
 ```
 
